@@ -35,4 +35,4 @@ Refer to image for media controls on desktop keyboards
 
 
 # Media Shortcuts Image:
-![Error](https://raw.githubusercontent.com/TechnologyMan101/manjaro-gnome-setup-script/master/Media_Shortcuts.png)
+![Error](https://raw.githubusercontent.com/TechnologyMan101/manjaro-gnome-setup-script/Media_Shortcuts.png)
