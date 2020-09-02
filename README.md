@@ -4,7 +4,7 @@ Bash Script to Set Up a Fresh Install of Manjaro GNOME with Linux 5.7.
 
 # Documentation
 
-Version 2.0
+Version 2.1
 
 Supported Linux Kernel Versions: Linux 5.7
 
