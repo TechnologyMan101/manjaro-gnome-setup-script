@@ -4,7 +4,7 @@ do
 	clear # clear screen for each loop of menu
  	tput setaf 3
 	echo "========================================"
-	echo " --- Manjaro GNOME Setup Script 2.0 ---"
+	echo " --- Manjaro GNOME Setup Script 2.1 ---"
 	echo "========================================"
 	tput setaf 2; echo "Script created by Nathan Viroonchatapan."
 	tput setaf 2; echo "All due credit and respect to Tyler Broad, for his work on the Release 2 codebase."
