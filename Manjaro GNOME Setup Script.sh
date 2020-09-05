@@ -4,8 +4,9 @@ do
 	clear # clear screen for each loop of menu
  	tput setaf 3
 	echo "========================================"
-	echo " --- Manjaro GNOME Setup Script 2.3 ---"
+	echo " --- Manjaro GNOME Setup Script 2.4 ---"
 	echo "========================================"
+	echo "Supported Linux Kernel Versions: Linux 5.7"
 	tput setaf 2; echo "Script created by Nathan Viroonchatapan."
 	tput setaf 2; echo "All due credit and respect to Tyler Broad, for his work on the Release 2 codebase."
 	tput setaf 3; echo "You can open this script in a text editor to see packages to be installed in detail."
