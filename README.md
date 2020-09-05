@@ -2,6 +2,9 @@
 Bash Script to Set Up a Fresh Install of Manjaro GNOME with Linux 5.7.
 
 
+# This script is now being retired due to lack of use and testing, and reliability issues. This script will no longer be maintained.
+
+
 # Documentation
 
 Version 2.4
